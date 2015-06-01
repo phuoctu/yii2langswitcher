@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 1, 2015, 11:03:52 AM
+    Author     : phuoctu
+*/
+
+#comit-langswitcher-bar{
+    position: fixed;
+    top:0;
+    left:0;        
+    z-index: 2000000;
+}

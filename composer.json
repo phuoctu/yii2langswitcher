@@ -1,0 +1,11 @@
+{    
+    "name": "co_mit/yii2langswitcher",
+    "description": "Yii 2 Language Switcher",
+    "keywords": ["yii2", "language switcher", "langswitcher", "co_mit", "co-mit"],
+    "type": "yii2-extension",
+    "autoload": {
+        "psr-4": {
+            "co_mit\\langswitcher\\": ""
+        }
+    }
+}
